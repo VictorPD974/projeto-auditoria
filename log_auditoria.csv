@@ -1,0 +1,962 @@
+﻿arquivo;timestamp;regra;evidencia;confianca
+DOC_0002.txt;2026-04-22 00:45:17;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0002.txt;2026-04-22 00:45:17;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0003.txt;2026-04-22 00:45:19;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0004.txt;2026-04-22 00:45:22;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0006.txt;2026-04-22 00:45:27;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0007.txt;2026-04-22 00:45:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0009.txt;2026-04-22 00:45:34;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0011.txt;2026-04-22 00:45:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0012.txt;2026-04-22 00:45:42;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0013.txt;2026-04-22 00:45:44;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0014.txt;2026-04-22 00:45:47;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0015.txt;2026-04-22 00:45:49;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0016.txt;2026-04-22 00:45:52;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0017.txt;2026-04-22 00:45:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0018.txt;2026-04-22 00:45:56;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0019.txt;2026-04-22 00:46:04;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0021.txt;2026-04-22 00:46:09;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0022.txt;2026-04-22 00:46:16;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0022.txt;2026-04-22 00:46:16;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0023.txt;2026-04-22 00:46:19;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0024.txt;2026-04-22 00:46:21;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0025.txt;2026-04-22 00:46:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0026.txt;2026-04-22 00:46:31;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0027.txt;2026-04-22 00:46:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0028.txt;2026-04-22 00:46:41;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0029.txt;2026-04-22 00:46:48;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0030.txt;2026-04-22 00:46:51;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0031.txt;2026-04-22 00:46:53;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0032.txt;2026-04-22 00:47:01;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0033.txt;2026-04-22 00:47:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0034.txt;2026-04-22 00:47:11;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0035.txt;2026-04-22 00:47:13;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0036.txt;2026-04-22 00:47:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0036.txt;2026-04-22 00:47:15;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0037.txt;2026-04-22 00:47:23;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0038.txt;2026-04-22 00:47:26;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0039.txt;2026-04-22 00:47:33;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0040.txt;2026-04-22 00:47:35;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0041.txt;2026-04-22 00:47:43;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0042.txt;2026-04-22 00:47:46;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0043.txt;2026-04-22 00:47:48;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0044.txt;2026-04-22 00:47:55;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0045.txt;2026-04-22 00:47:58;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0046.txt;2026-04-22 00:48:00;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0047.txt;2026-04-22 00:48:08;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0048.txt;2026-04-22 00:48:10;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0049.txt;2026-04-22 00:48:18;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0050.txt;2026-04-22 00:48:20;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0051.txt;2026-04-22 00:48:23;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0052.txt;2026-04-22 00:48:30;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0052.txt;2026-04-22 00:48:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0053.txt;2026-04-22 00:48:33;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0054.txt;2026-04-22 00:48:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0055.txt;2026-04-22 00:48:43;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0057.txt;2026-04-22 00:48:53;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0058.txt;2026-04-22 00:48:55;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0059.txt;2026-04-22 00:48:58;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0060.txt;2026-04-22 00:49:05;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0061.txt;2026-04-22 00:49:08;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0062.txt;2026-04-22 00:49:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0063.txt;2026-04-22 00:49:17;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0064.txt;2026-04-22 00:49:25;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0066.txt;2026-04-22 00:49:30;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0066.txt;2026-04-22 00:49:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0067.txt;2026-04-22 00:49:37;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0068.txt;2026-04-22 00:49:40;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0069.txt;2026-04-22 00:49:47;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0072.txt;2026-04-22 00:49:59;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0072.txt;2026-04-22 00:49:59;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0073.txt;2026-04-22 00:50:02;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0073.txt;2026-04-22 00:50:02;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0074.txt;2026-04-22 00:50:10;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0075.txt;2026-04-22 00:50:12;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0076.txt;2026-04-22 00:50:14;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0077.txt;2026-04-22 00:50:22;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0079.txt;2026-04-22 00:50:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0080.txt;2026-04-22 00:50:34;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0080.txt;2026-04-22 00:50:34;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0081.txt;2026-04-22 00:50:36;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0082.txt;2026-04-22 00:50:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0083.txt;2026-04-22 00:50:46;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0084.txt;2026-04-22 00:50:54;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0085.txt;2026-04-22 00:50:56;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0086.txt;2026-04-22 00:50:59;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0087.txt;2026-04-22 00:51:06;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0088.txt;2026-04-22 00:51:09;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0089.txt;2026-04-22 00:51:11;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0090.txt;2026-04-22 00:51:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0091.txt;2026-04-22 00:51:21;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0093.txt;2026-04-22 00:51:31;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0094.txt;2026-04-22 00:51:39;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0095.txt;2026-04-22 00:51:41;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0096.txt;2026-04-22 00:51:44;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0097.txt;2026-04-22 00:51:51;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0098.txt;2026-04-22 00:51:53;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0099.txt;2026-04-22 00:51:56;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0101.txt;2026-04-22 00:52:06;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0103.txt;2026-04-22 00:52:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0105.txt;2026-04-22 00:52:26;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0106.txt;2026-04-22 00:52:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0106.txt;2026-04-22 00:52:28;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0108.txt;2026-04-22 00:52:38;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0109.txt;2026-04-22 00:52:41;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0110.txt;2026-04-22 00:52:48;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0113.txt;2026-04-22 00:53:01;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0115.txt;2026-04-22 00:53:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0115.txt;2026-04-22 00:53:11;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0116.txt;2026-04-22 00:53:13;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0116.txt;2026-04-22 00:53:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0118.txt;2026-04-22 00:53:23;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0118.txt;2026-04-22 00:53:23;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0119.txt;2026-04-22 00:53:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0120.txt;2026-04-22 00:53:33;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0121.txt;2026-04-22 00:53:35;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0122.txt;2026-04-22 00:53:38;Aprovador não reconhecido;None;Médio
+DOC_0123.txt;2026-04-22 00:53:45;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0124.txt;2026-04-22 00:53:48;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0125.txt;2026-04-22 00:53:55;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0126.txt;2026-04-22 00:53:58;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0127.txt;2026-04-22 00:54:00;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0128.txt;2026-04-22 00:54:07;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0128.txt;2026-04-22 00:54:07;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0129.txt;2026-04-22 00:54:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0130.txt;2026-04-22 00:54:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0131.txt;2026-04-22 00:54:20;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0132.txt;2026-04-22 00:54:22;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0133.txt;2026-04-22 00:54:30;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0135.txt;2026-04-22 00:54:34;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0136.txt;2026-04-22 00:54:42;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0137.txt;2026-04-22 00:54:44;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0137.txt;2026-04-22 00:54:44;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0138.txt;2026-04-22 00:54:52;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0138.txt;2026-04-22 00:54:52;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0139.txt;2026-04-22 00:54:54;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0140.txt;2026-04-22 00:55:02;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0140.txt;2026-04-22 00:55:02;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0141.txt;2026-04-22 00:55:04;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0142.txt;2026-04-22 00:55:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0142.txt;2026-04-22 00:55:07;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0143.txt;2026-04-22 00:55:14;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0144.txt;2026-04-22 00:55:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0146.txt;2026-04-22 00:55:27;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0146.txt;2026-04-22 00:55:27;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0147.txt;2026-04-22 00:55:29;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0147.txt;2026-04-22 00:55:29;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0148.txt;2026-04-22 00:55:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0149.txt;2026-04-22 00:55:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0151.txt;2026-04-22 00:55:49;NF duplicada;NF-55555;Alto
+DOC_0151.txt;2026-04-22 00:55:49;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0152.txt;2026-04-22 00:55:51;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0153.txt;2026-04-22 00:55:59;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0154.txt;2026-04-22 00:56:01;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0155.txt;2026-04-22 00:56:03;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0156.txt;2026-04-22 00:56:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0157.txt;2026-04-22 00:56:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0158.txt;2026-04-22 00:56:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0159.txt;2026-04-22 00:56:23;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0160.txt;2026-04-22 00:56:31;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0160.txt;2026-04-22 00:56:31;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0161.txt;2026-04-22 00:56:33;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0162.txt;2026-04-22 00:56:35;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0163.txt;2026-04-22 00:56:43;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0164.txt;2026-04-22 00:56:45;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0166.txt;2026-04-22 00:56:55;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0167.txt;2026-04-22 00:56:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0169.txt;2026-04-22 00:57:07;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0170.txt;2026-04-22 00:57:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0171.txt;2026-04-22 00:57:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0172.txt;2026-04-22 00:57:20;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0173.txt;2026-04-22 00:57:27;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0174.txt;2026-04-22 00:57:30;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0174.txt;2026-04-22 00:57:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0175.txt;2026-04-22 00:57:32;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0176.txt;2026-04-22 00:57:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0177.txt;2026-04-22 00:57:42;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0178.txt;2026-04-22 00:57:49;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0180.txt;2026-04-22 00:57:54;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0180.txt;2026-04-22 00:57:54;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0181.txt;2026-04-22 00:58:02;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0181.txt;2026-04-22 00:58:02;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0184.txt;2026-04-22 00:58:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0185.txt;2026-04-22 00:58:16;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0186.txt;2026-04-22 00:58:24;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0187.txt;2026-04-22 00:58:26;NF emitida após pagamento;E:20/06/2024 P:15/06/2024;Alto
+DOC_0187.txt;2026-04-22 00:58:26;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0188.txt;2026-04-22 00:58:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0189.txt;2026-04-22 00:58:36;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0190.txt;2026-04-22 00:58:39;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0191.txt;2026-04-22 00:58:41;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0192.txt;2026-04-22 00:58:49;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0193.txt;2026-04-22 00:58:51;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0195.txt;2026-04-22 00:59:01;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0197.txt;2026-04-22 00:59:11;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0198.txt;2026-04-22 00:59:13;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0200.txt;2026-04-22 00:59:23;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0201.txt;2026-04-22 00:59:25;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0202.txt;2026-04-22 00:59:33;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0203.txt;2026-04-22 00:59:35;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0204.txt;2026-04-22 00:59:43;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0205.txt;2026-04-22 00:59:45;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0206.txt;2026-04-22 00:59:47;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0207.txt;2026-04-22 00:59:55;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0208.txt;2026-04-22 00:59:57;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0209.txt;2026-04-22 01:00:00;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0210.txt;2026-04-22 01:00:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0212.txt;2026-04-22 01:00:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0213.txt;2026-04-22 01:00:20;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0214.txt;2026-04-22 01:00:27;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0215.txt;2026-04-22 01:00:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0216.txt;2026-04-22 01:00:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0216.txt;2026-04-22 01:00:32;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0217.txt;2026-04-22 01:00:39;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0218.txt;2026-04-22 01:00:42;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0218.txt;2026-04-22 01:00:42;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0220.txt;2026-04-22 01:00:52;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0221.txt;2026-04-22 01:00:54;NF emitida após pagamento;E:16/01/2023 P:15/01/2023;Alto
+DOC_0221.txt;2026-04-22 01:00:54;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0222.txt;2026-04-22 01:01:01;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0223.txt;2026-04-22 01:01:04;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0224.txt;2026-04-22 01:01:06;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0224.txt;2026-04-22 01:01:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0225.txt;2026-04-22 01:01:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0226.txt;2026-04-22 01:01:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0227.txt;2026-04-22 01:01:24;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0228.txt;2026-04-22 01:01:26;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0229.txt;2026-04-22 01:01:28;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0230.txt;2026-04-22 01:01:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0231.txt;2026-04-22 01:01:38;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0232.txt;2026-04-22 01:01:46;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0233.txt;2026-04-22 01:01:48;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0234.txt;2026-04-22 01:01:51;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0234.txt;2026-04-22 01:01:51;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0235.txt;2026-04-22 01:01:58;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0237.txt;2026-04-22 01:02:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0238.txt;2026-04-22 01:02:11;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0239.txt;2026-04-22 01:02:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0241.txt;2026-04-22 01:02:23;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0241.txt;2026-04-22 01:02:23;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0242.txt;2026-04-22 01:02:31;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0242.txt;2026-04-22 01:02:31;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0243.txt;2026-04-22 01:02:33;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0244.txt;2026-04-22 01:02:35;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0244.txt;2026-04-22 01:02:35;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0245.txt;2026-04-22 01:02:43;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0245.txt;2026-04-22 01:02:43;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0247.txt;2026-04-22 01:02:48;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0247.txt;2026-04-22 01:02:48;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0248.txt;2026-04-22 01:02:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0250.txt;2026-04-22 01:03:06;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0250.txt;2026-04-22 01:03:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0251.txt;2026-04-22 01:03:08;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0252.txt;2026-04-22 01:03:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0253.txt;2026-04-22 01:03:18;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0254.txt;2026-04-22 01:03:20;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0255.txt;2026-04-22 01:03:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0256.txt;2026-04-22 01:03:30;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0256.txt;2026-04-22 01:03:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0258.txt;2026-04-22 01:03:40;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0258.txt;2026-04-22 01:03:40;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0259.txt;2026-04-22 01:03:43;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0260.txt;2026-04-22 01:03:50;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0260.txt;2026-04-22 01:03:50;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0261.txt;2026-04-22 01:03:52;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0262.txt;2026-04-22 01:03:55;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0262.txt;2026-04-22 01:03:55;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0263.txt;2026-04-22 01:04:02;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0264.txt;2026-04-22 01:04:05;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0265.txt;2026-04-22 01:04:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0266.txt;2026-04-22 01:04:15;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0267.txt;2026-04-22 01:04:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0268.txt;2026-04-22 01:04:25;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0269.txt;2026-04-22 01:04:27;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0270.txt;2026-04-22 01:04:35;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0271.txt;2026-04-22 01:04:37;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0272.txt;2026-04-22 01:04:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0272.txt;2026-04-22 01:04:39;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0273.txt;2026-04-22 01:04:47;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0274.txt;2026-04-22 01:04:55;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0275.txt;2026-04-22 01:04:57;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0279.txt;2026-04-22 01:05:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0282.txt;2026-04-22 01:05:29;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0285.txt;2026-04-22 01:05:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0285.txt;2026-04-22 01:05:41;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0286.txt;2026-04-22 01:05:44;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0287.txt;2026-04-22 01:05:51;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0287.txt;2026-04-22 01:05:51;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0289.txt;2026-04-22 01:05:56;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0290.txt;2026-04-22 01:06:03;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0292.txt;2026-04-22 01:06:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0293.txt;2026-04-22 01:06:16;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0294.txt;2026-04-22 01:06:18;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0295.txt;2026-04-22 01:06:26;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0296.txt;2026-04-22 01:06:34;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0297.txt;2026-04-22 01:06:37;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0299.txt;2026-04-22 01:06:47;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0300.txt;2026-04-22 01:06:49;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0301.txt;2026-04-22 01:06:57;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0303.txt;2026-04-22 01:07:06;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0303.txt;2026-04-22 01:07:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0305.txt;2026-04-22 01:07:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0306.txt;2026-04-22 01:07:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0307.txt;2026-04-22 01:07:21;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0308.txt;2026-04-22 01:07:23;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0310.txt;2026-04-22 01:07:38;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0311.txt;2026-04-22 01:07:41;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0313.txt;2026-04-22 01:07:50;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0314.txt;2026-04-22 01:07:53;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0315.txt;2026-04-22 01:07:55;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0316.txt;2026-04-22 01:08:03;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0317.txt;2026-04-22 01:08:05;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0318.txt;2026-04-22 01:08:13;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0318.txt;2026-04-22 01:08:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0319.txt;2026-04-22 01:08:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0321.txt;2026-04-22 01:08:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0321.txt;2026-04-22 01:08:25;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0322.txt;2026-04-22 01:08:27;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0323.txt;2026-04-22 01:08:35;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0323.txt;2026-04-22 01:08:35;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0324.txt;2026-04-22 01:08:37;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0324.txt;2026-04-22 01:08:37;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0325.txt;2026-04-22 01:08:45;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0327.txt;2026-04-22 01:08:50;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0328.txt;2026-04-22 01:08:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0330.txt;2026-04-22 01:09:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0331.txt;2026-04-22 01:09:10;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0332.txt;2026-04-22 01:09:12;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0332.txt;2026-04-22 01:09:12;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0333.txt;2026-04-22 01:09:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0333.txt;2026-04-22 01:09:19;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0334.txt;2026-04-22 01:09:22;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0335.txt;2026-04-22 01:09:24;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0336.txt;2026-04-22 01:09:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0336.txt;2026-04-22 01:09:32;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0338.txt;2026-04-22 01:09:36;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0339.txt;2026-04-22 01:09:44;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0340.txt;2026-04-22 01:09:51;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0341.txt;2026-04-22 01:09:54;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0341.txt;2026-04-22 01:09:54;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0342.txt;2026-04-22 01:09:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0343.txt;2026-04-22 01:10:04;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0344.txt;2026-04-22 01:10:06;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0345.txt;2026-04-22 01:10:08;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0347.txt;2026-04-22 01:10:18;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0348.txt;2026-04-22 01:10:26;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0350.txt;2026-04-22 01:10:31;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0352.txt;2026-04-22 01:10:41;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0353.txt;2026-04-22 01:10:43;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0353.txt;2026-04-22 01:10:43;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0354.txt;2026-04-22 01:10:51;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0355.txt;2026-04-22 01:10:53;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0356.txt;2026-04-22 01:11:01;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0356.txt;2026-04-22 01:11:01;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0357.txt;2026-04-22 01:11:03;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0359.txt;2026-04-22 01:11:14;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0360.txt;2026-04-22 01:11:21;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0362.txt;2026-04-22 01:11:26;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0364.txt;2026-04-22 01:11:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0364.txt;2026-04-22 01:11:36;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0366.txt;2026-04-22 01:11:46;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0367.txt;2026-04-22 01:11:48;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0367.txt;2026-04-22 01:11:48;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0368.txt;2026-04-22 01:11:50;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0369.txt;2026-04-22 01:11:58;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0369.txt;2026-04-22 01:11:58;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0371.txt;2026-04-22 01:12:08;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0372.txt;2026-04-22 01:12:10;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0373.txt;2026-04-22 01:12:13;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0374.txt;2026-04-22 01:12:20;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0375.txt;2026-04-22 01:12:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0377.txt;2026-04-22 01:12:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0378.txt;2026-04-22 01:12:35;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0379.txt;2026-04-22 01:12:42;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0380.txt;2026-04-22 01:12:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0382.txt;2026-04-22 01:12:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0383.txt;2026-04-22 01:13:02;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0384.txt;2026-04-22 01:13:04;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0384.txt;2026-04-22 01:13:04;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0385.txt;2026-04-22 01:13:07;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0386.txt;2026-04-22 01:13:09;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0387.txt;2026-04-22 01:13:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0388.txt;2026-04-22 01:13:19;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0390.txt;2026-04-22 01:13:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0391.txt;2026-04-22 01:13:36;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0392.txt;2026-04-22 01:13:39;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0393.txt;2026-04-22 01:13:41;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0394.txt;2026-04-22 01:13:44;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0395.txt;2026-04-22 01:13:51;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0396.txt;2026-04-22 01:13:53;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0398.txt;2026-04-22 01:14:03;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0399.txt;2026-04-22 01:14:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0400.txt;2026-04-22 01:14:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0402.txt;2026-04-22 01:14:23;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0402.txt;2026-04-22 01:14:23;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0405.txt;2026-04-22 01:14:35;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0406.txt;2026-04-22 01:14:38;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0407.txt;2026-04-22 01:14:45;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0408.txt;2026-04-22 01:14:48;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0409.txt;2026-04-22 01:14:55;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0410.txt;2026-04-22 01:14:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0411.txt;2026-04-22 01:15:00;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0412.txt;2026-04-22 01:15:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0414.txt;2026-04-22 01:15:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0415.txt;2026-04-22 01:15:20;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0416.txt;2026-04-22 01:15:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0417.txt;2026-04-22 01:15:29;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0418.txt;2026-04-22 01:15:37;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0419.txt;2026-04-22 01:15:39;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0420.txt;2026-04-22 01:15:42;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0420.txt;2026-04-22 01:15:42;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0421.txt;2026-04-22 01:15:44;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0422.txt;2026-04-22 01:15:52;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0423.txt;2026-04-22 01:15:59;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0423.txt;2026-04-22 01:15:59;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0426.txt;2026-04-22 01:16:11;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0427.txt;2026-04-22 01:16:14;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0428.txt;2026-04-22 01:16:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0429.txt;2026-04-22 01:16:23;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0430.txt;2026-04-22 01:16:26;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0431.txt;2026-04-22 01:16:33;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0432.txt;2026-04-22 01:16:35;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0433.txt;2026-04-22 01:16:38;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0434.txt;2026-04-22 01:16:45;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0435.txt;2026-04-22 01:16:48;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0436.txt;2026-04-22 01:16:55;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0438.txt;2026-04-22 01:17:00;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0439.txt;2026-04-22 01:17:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0440.txt;2026-04-22 01:17:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0441.txt;2026-04-22 01:17:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0443.txt;2026-04-22 01:17:22;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0445.txt;2026-04-22 01:17:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0446.txt;2026-04-22 01:17:39;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0447.txt;2026-04-22 01:17:42;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0449.txt;2026-04-22 01:17:52;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0450.txt;2026-04-22 01:17:54;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0451.txt;2026-04-22 01:17:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0452.txt;2026-04-22 01:18:04;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0453.txt;2026-04-22 01:18:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0453.txt;2026-04-22 01:18:07;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0454.txt;2026-04-22 01:18:14;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0455.txt;2026-04-22 01:18:16;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0456.txt;2026-04-22 01:18:24;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0457.txt;2026-04-22 01:18:26;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0458.txt;2026-04-22 01:18:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0459.txt;2026-04-22 01:18:36;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0461.txt;2026-04-22 01:18:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0462.txt;2026-04-22 01:18:49;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0462.txt;2026-04-22 01:18:49;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0464.txt;2026-04-22 01:18:59;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0465.txt;2026-04-22 01:19:01;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0466.txt;2026-04-22 01:19:04;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0469.txt;2026-04-22 01:19:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0469.txt;2026-04-22 01:19:22;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0470.txt;2026-04-22 01:19:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0470.txt;2026-04-22 01:19:29;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0471.txt;2026-04-22 01:19:31;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0472.txt;2026-04-22 01:19:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0473.txt;2026-04-22 01:19:41;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0474.txt;2026-04-22 01:19:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0475.txt;2026-04-22 01:19:51;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0476.txt;2026-04-22 01:19:54;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0477.txt;2026-04-22 01:19:56;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0478.txt;2026-04-22 01:20:04;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0480.txt;2026-04-22 01:20:13;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0480.txt;2026-04-22 01:20:13;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0481.txt;2026-04-22 01:20:16;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0482.txt;2026-04-22 01:20:18;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0483.txt;2026-04-22 01:20:26;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0484.txt;2026-04-22 01:20:28;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0486.txt;2026-04-22 01:20:38;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0487.txt;2026-04-22 01:20:45;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0489.txt;2026-04-22 01:20:50;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0490.txt;2026-04-22 01:20:58;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0491.txt;2026-04-22 01:21:00;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0492.txt;2026-04-22 01:21:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0493.txt;2026-04-22 01:21:10;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0494.txt;2026-04-22 01:21:13;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0495.txt;2026-04-22 01:21:20;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0496.txt;2026-04-22 01:21:23;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0500.txt;2026-04-22 01:21:43;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0501.txt;2026-04-22 01:21:45;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0502.txt;2026-04-22 01:21:47;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0503.txt;2026-04-22 01:21:55;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0504.txt;2026-04-22 01:21:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0505.txt;2026-04-22 01:22:05;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0506.txt;2026-04-22 01:22:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0507.txt;2026-04-22 01:22:09;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0508.txt;2026-04-22 01:22:17;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0509.txt;2026-04-22 01:22:20;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0511.txt;2026-04-22 01:22:29;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0512.txt;2026-04-22 01:22:32;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0513.txt;2026-04-22 01:22:39;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0514.txt;2026-04-22 01:22:42;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0516.txt;2026-04-22 01:22:52;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0517.txt;2026-04-22 01:22:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0518.txt;2026-04-22 01:22:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0519.txt;2026-04-22 01:23:04;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0519.txt;2026-04-22 01:23:04;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0520.txt;2026-04-22 01:23:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0521.txt;2026-04-22 01:23:14;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0522.txt;2026-04-22 01:23:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0523.txt;2026-04-22 01:23:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0524.txt;2026-04-22 01:23:26;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0526.txt;2026-04-22 01:23:36;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0527.txt;2026-04-22 01:23:39;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0528.txt;2026-04-22 01:23:41;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0530.txt;2026-04-22 01:23:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0532.txt;2026-04-22 01:24:01;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0535.txt;2026-04-22 01:24:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0536.txt;2026-04-22 01:24:21;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0537.txt;2026-04-22 01:24:24;NF emitida após pagamento;E:16/06/2024 P:11/06/2024;Alto
+DOC_0537.txt;2026-04-22 01:24:24;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0538.txt;2026-04-22 01:24:31;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0538.txt;2026-04-22 01:24:31;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0540.txt;2026-04-22 01:24:36;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0541.txt;2026-04-22 01:24:43;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0542.txt;2026-04-22 01:24:46;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0543.txt;2026-04-22 01:24:53;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0544.txt;2026-04-22 01:24:56;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0546.txt;2026-04-22 01:25:06;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0547.txt;2026-04-22 01:25:08;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0548.txt;2026-04-22 01:25:15;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0550.txt;2026-04-22 01:25:25;Aprovador não reconhecido;None;Médio
+DOC_0551.txt;2026-04-22 01:25:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0552.txt;2026-04-22 01:25:35;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0553.txt;2026-04-22 01:25:38;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0554.txt;2026-04-22 01:25:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0555.txt;2026-04-22 01:25:48;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0556.txt;2026-04-22 01:25:50;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0557.txt;2026-04-22 01:25:53;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0557.txt;2026-04-22 01:25:53;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0558.txt;2026-04-22 01:26:00;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0558.txt;2026-04-22 01:26:00;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0559.txt;2026-04-22 01:26:03;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0560.txt;2026-04-22 01:26:10;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0561.txt;2026-04-22 01:26:12;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0562.txt;2026-04-22 01:26:20;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0562.txt;2026-04-22 01:26:20;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0564.txt;2026-04-22 01:26:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0564.txt;2026-04-22 01:26:25;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0565.txt;2026-04-22 01:26:32;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0567.txt;2026-04-22 01:26:37;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0568.txt;2026-04-22 01:26:45;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0570.txt;2026-04-22 01:26:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0571.txt;2026-04-22 01:26:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0573.txt;2026-04-22 01:27:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0574.txt;2026-04-22 01:27:09;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0575.txt;2026-04-22 01:27:17;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0576.txt;2026-04-22 01:27:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0578.txt;2026-04-22 01:27:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0579.txt;2026-04-22 01:27:31;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0580.txt;2026-04-22 01:27:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0581.txt;2026-04-22 01:27:41;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0584.txt;2026-04-22 01:27:53;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0585.txt;2026-04-22 01:27:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0587.txt;2026-04-22 01:28:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0589.txt;2026-04-22 01:28:15;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0590.txt;2026-04-22 01:28:18;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0590.txt;2026-04-22 01:28:18;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0592.txt;2026-04-22 01:28:28;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0592.txt;2026-04-22 01:28:28;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0593.txt;2026-04-22 01:28:35;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0594.txt;2026-04-22 01:28:37;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0595.txt;2026-04-22 01:28:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0597.txt;2026-04-22 01:28:50;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0598.txt;2026-04-22 01:28:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0599.txt;2026-04-22 01:29:00;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0600.txt;2026-04-22 01:29:02;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0602.txt;2026-04-22 01:29:12;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0603.txt;2026-04-22 01:29:19;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0606.txt;2026-04-22 01:29:32;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0607.txt;2026-04-22 01:29:34;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0608.txt;2026-04-22 01:29:37;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0609.txt;2026-04-22 01:29:44;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0610.txt;2026-04-22 01:29:47;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0611.txt;2026-04-22 01:29:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0612.txt;2026-04-22 01:29:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0613.txt;2026-04-22 01:30:04;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0614.txt;2026-04-22 01:30:06;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0615.txt;2026-04-22 01:30:09;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0616.txt;2026-04-22 01:30:16;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0617.txt;2026-04-22 01:30:19;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0619.txt;2026-04-22 01:30:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0621.txt;2026-04-22 01:30:39;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0622.txt;2026-04-22 01:30:41;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0622.txt;2026-04-22 01:30:41;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0623.txt;2026-04-22 01:30:43;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0624.txt;2026-04-22 01:30:51;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0625.txt;2026-04-22 01:30:53;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0626.txt;2026-04-22 01:31:01;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0627.txt;2026-04-22 01:31:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0628.txt;2026-04-22 01:31:06;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0629.txt;2026-04-22 01:31:13;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0630.txt;2026-04-22 01:31:16;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0631.txt;2026-04-22 01:31:18;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0632.txt;2026-04-22 01:31:26;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0633.txt;2026-04-22 01:31:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0633_v2.txt;2026-04-22 01:31:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0633_v2.txt;2026-04-22 01:31:36;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0634.txt;2026-04-22 01:31:38;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0636.txt;2026-04-22 01:31:48;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0636.txt;2026-04-22 01:31:48;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0637.txt;2026-04-22 01:31:50;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0638.txt;2026-04-22 01:31:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0640.txt;2026-04-22 01:32:02;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0642.txt;2026-04-22 01:32:12;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0643.txt;2026-04-22 01:32:15;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0643.txt;2026-04-22 01:32:15;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0644.txt;2026-04-22 01:32:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0645.txt;2026-04-22 01:32:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0646.txt;2026-04-22 01:32:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0647.txt;2026-04-22 01:32:34;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0648.txt;2026-04-22 01:32:37;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0649.txt;2026-04-22 01:32:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0650.txt;2026-04-22 01:32:47;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0651.txt;2026-04-22 01:32:54;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0652.txt;2026-04-22 01:32:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0653.txt;2026-04-22 01:32:59;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0654.txt;2026-04-22 01:33:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0656.txt;2026-04-22 01:33:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0659.txt;2026-04-22 01:33:29;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0659.txt;2026-04-22 01:33:29;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0662.txt;2026-04-22 01:33:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0663.txt;2026-04-22 01:33:44;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0665.txt;2026-04-22 01:33:54;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0666.txt;2026-04-22 01:33:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0667.txt;2026-04-22 01:34:04;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0667.txt;2026-04-22 01:34:04;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0668.txt;2026-04-22 01:34:06;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0669.txt;2026-04-22 01:34:09;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0670.txt;2026-04-22 01:34:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0671.txt;2026-04-22 01:34:20;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0672.txt;2026-04-22 01:34:27;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0673.txt;2026-04-22 01:34:30;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0673.txt;2026-04-22 01:34:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0674.txt;2026-04-22 01:34:32;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0675.txt;2026-04-22 01:34:39;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0676.txt;2026-04-22 01:34:42;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0676.txt;2026-04-22 01:34:42;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0677.txt;2026-04-22 01:34:49;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0677.txt;2026-04-22 01:34:49;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0678.txt;2026-04-22 01:34:57;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0678.txt;2026-04-22 01:34:57;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0679.txt;2026-04-22 01:34:59;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0681.txt;2026-04-22 01:35:04;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0682.txt;2026-04-22 01:35:12;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0683.txt;2026-04-22 01:35:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0683.txt;2026-04-22 01:35:14;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0684.txt;2026-04-22 01:35:21;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0685.txt;2026-04-22 01:35:24;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0686.txt;2026-04-22 01:35:31;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0687.txt;2026-04-22 01:35:34;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0687.txt;2026-04-22 01:35:34;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0688.txt;2026-04-22 01:35:36;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0689.txt;2026-04-22 01:35:39;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0690.txt;2026-04-22 01:35:46;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0690.txt;2026-04-22 01:35:46;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0692.txt;2026-04-22 01:35:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0693.txt;2026-04-22 01:35:58;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0694.txt;2026-04-22 01:36:06;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0695.txt;2026-04-22 01:36:08;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0695.txt;2026-04-22 01:36:08;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0696.txt;2026-04-22 01:36:16;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0696.txt;2026-04-22 01:36:16;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0697.txt;2026-04-22 01:36:18;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0698.txt;2026-04-22 01:36:21;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0699.txt;2026-04-22 01:36:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0700.txt;2026-04-22 01:36:31;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0701.txt;2026-04-22 01:36:33;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0702.txt;2026-04-22 01:36:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0702.txt;2026-04-22 01:36:41;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0703.txt;2026-04-22 01:36:43;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0704.txt;2026-04-22 01:36:45;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0705.txt;2026-04-22 01:36:53;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0706.txt;2026-04-22 01:36:55;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0707.txt;2026-04-22 01:37:03;Aprovador não reconhecido;None;Médio
+DOC_0709.txt;2026-04-22 01:37:08;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0710.txt;2026-04-22 01:37:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0712.txt;2026-04-22 01:37:25;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0713.txt;2026-04-22 01:37:29;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0715.txt;2026-04-22 01:37:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0716.txt;2026-04-22 01:37:46;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0716.txt;2026-04-22 01:37:46;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0717.txt;2026-04-22 01:37:49;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0718.txt;2026-04-22 01:37:56;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0718.txt;2026-04-22 01:37:56;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0719.txt;2026-04-22 01:37:59;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0720.txt;2026-04-22 01:38:06;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0720.txt;2026-04-22 01:38:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0722.txt;2026-04-22 01:38:11;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0722.txt;2026-04-22 01:38:11;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0723.txt;2026-04-22 01:38:19;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0724.txt;2026-04-22 01:38:21;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0725.txt;2026-04-22 01:38:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0727.txt;2026-04-22 01:38:38;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0728.txt;2026-04-22 01:38:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0729.txt;2026-04-22 01:38:43;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0730.txt;2026-04-22 01:38:51;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0731.txt;2026-04-22 01:38:53;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0732.txt;2026-04-22 01:39:01;NF duplicada;NF-67424;Alto
+DOC_0732.txt;2026-04-22 01:39:01;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0733.txt;2026-04-22 01:39:03;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0735.txt;2026-04-22 01:39:08;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0736.txt;2026-04-22 01:39:16;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0737.txt;2026-04-22 01:39:18;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0738.txt;2026-04-22 01:39:25;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0739.txt;2026-04-22 01:39:28;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0740.txt;2026-04-22 01:39:35;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0740.txt;2026-04-22 01:39:35;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0741.txt;2026-04-22 01:39:38;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0742.txt;2026-04-22 01:39:41;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0742.txt;2026-04-22 01:39:41;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0745.txt;2026-04-22 01:39:58;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0746.txt;2026-04-22 01:40:00;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0747.txt;2026-04-22 01:40:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0748.txt;2026-04-22 01:40:05;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0750.txt;2026-04-22 01:40:20;NF emitida após pagamento;E:02/01/2024 P:22/12/2023;Alto
+DOC_0750.txt;2026-04-22 01:40:20;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0751.txt;2026-04-22 01:40:23;Aprovador não reconhecido;None;Médio
+DOC_0752.txt;2026-04-22 01:40:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0753.txt;2026-04-22 01:40:27;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0754.txt;2026-04-22 01:40:35;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0755.txt;2026-04-22 01:40:37;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0756.txt;2026-04-22 01:40:45;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0757.txt;2026-04-22 01:40:47;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0758.txt;2026-04-22 01:40:55;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0758.txt;2026-04-22 01:40:55;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0759.txt;2026-04-22 01:40:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0763.txt;2026-04-22 01:41:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0765.txt;2026-04-22 01:41:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0766.txt;2026-04-22 01:41:30;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0767.txt;2026-04-22 01:41:32;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0768.txt;2026-04-22 01:41:35;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0769.txt;2026-04-22 01:41:42;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0770.txt;2026-04-22 01:41:45;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0772.txt;2026-04-22 01:41:54;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0773.txt;2026-04-22 01:41:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0773.txt;2026-04-22 01:41:57;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0774.txt;2026-04-22 01:42:04;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0775.txt;2026-04-22 01:42:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0776.txt;2026-04-22 01:42:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0777.txt;2026-04-22 01:42:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0778.txt;2026-04-22 01:42:25;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0779.txt;2026-04-22 01:42:27;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0780.txt;2026-04-22 01:42:30;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0781.txt;2026-04-22 01:42:32;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0782.txt;2026-04-22 01:42:39;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0783.txt;2026-04-22 01:42:42;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0784.txt;2026-04-22 01:42:49;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0785.txt;2026-04-22 01:42:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0788.txt;2026-04-22 01:43:04;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0788.txt;2026-04-22 01:43:04;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0789.txt;2026-04-22 01:43:12;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0790.txt;2026-04-22 01:43:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0792.txt;2026-04-22 01:43:24;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0793.txt;2026-04-22 01:43:31;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0794.txt;2026-04-22 01:43:34;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0795.txt;2026-04-22 01:43:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0797.txt;2026-04-22 01:43:46;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0797.txt;2026-04-22 01:43:46;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0798.txt;2026-04-22 01:43:49;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0799.txt;2026-04-22 01:43:51;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0801.txt;2026-04-22 01:44:06;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0801.txt;2026-04-22 01:44:06;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0802.txt;2026-04-22 01:44:09;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0802.txt;2026-04-22 01:44:09;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0804.txt;2026-04-22 01:44:13;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0805.txt;2026-04-22 01:44:21;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0805.txt;2026-04-22 01:44:21;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0806.txt;2026-04-22 01:44:23;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0808.txt;2026-04-22 01:44:38;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0808.txt;2026-04-22 01:44:38;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0809.txt;2026-04-22 01:44:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0811.txt;2026-04-22 01:44:45;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0812.txt;2026-04-22 01:44:53;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0813.txt;2026-04-22 01:44:55;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0814.txt;2026-04-22 01:44:57;NF duplicada;None;Alto
+DOC_0814.txt;2026-04-22 01:44:57;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0815.txt;2026-04-22 01:45:05;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0815.txt;2026-04-22 01:45:05;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0816.txt;2026-04-22 01:45:08;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0816.txt;2026-04-22 01:45:08;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0817.txt;2026-04-22 01:45:15;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0818.txt;2026-04-22 01:45:17;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0820.txt;2026-04-22 01:45:27;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0821.txt;2026-04-22 01:45:35;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0823.txt;2026-04-22 01:45:40;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0824.txt;2026-04-22 01:45:42;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0825.txt;2026-04-22 01:45:50;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0825.txt;2026-04-22 01:45:50;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0826.txt;2026-04-22 01:45:52;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0827.txt;2026-04-22 01:46:00;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0828.txt;2026-04-22 01:46:02;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0830.txt;2026-04-22 01:46:07;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0831.txt;2026-04-22 01:46:15;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0832.txt;2026-04-22 01:46:17;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0834.txt;2026-04-22 01:46:27;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0834.txt;2026-04-22 01:46:27;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0835.txt;2026-04-22 01:46:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0836.txt;2026-04-22 01:46:37;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0839.txt;2026-04-22 01:46:49;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0841.txt;2026-04-22 01:46:59;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0842.txt;2026-04-22 01:47:02;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0843.txt;2026-04-22 01:47:05;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0844.txt;2026-04-22 01:47:12;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0845.txt;2026-04-22 01:47:15;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0846.txt;2026-04-22 01:47:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0847.txt;2026-04-22 01:47:25;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0847.txt;2026-04-22 01:47:25;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0848.txt;2026-04-22 01:47:27;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0849.txt;2026-04-22 01:47:35;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0850.txt;2026-04-22 01:47:37;Aprovador não reconhecido;João Ninguém;Médio
+DOC_0851.txt;2026-04-22 01:47:40;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0851.txt;2026-04-22 01:47:40;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0852.txt;2026-04-22 01:47:47;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0853.txt;2026-04-22 01:47:50;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0854.txt;2026-04-22 01:47:57;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0855.txt;2026-04-22 01:48:00;NF duplicada;NF-24322;Alto
+DOC_0855.txt;2026-04-22 01:48:00;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0856.txt;2026-04-22 01:48:02;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0857.txt;2026-04-22 01:48:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0858.txt;2026-04-22 01:48:12;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0860.txt;2026-04-22 01:48:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0861.txt;2026-04-22 01:48:24;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0862.txt;2026-04-22 01:48:32;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0863.txt;2026-04-22 01:48:34;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0864.txt;2026-04-22 01:48:41;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0866.txt;2026-04-22 01:48:47;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0866.txt;2026-04-22 01:48:47;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0867.txt;2026-04-22 01:48:54;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0868.txt;2026-04-22 01:48:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0869.txt;2026-04-22 01:48:59;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0870.txt;2026-04-22 01:49:07;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0871.txt;2026-04-22 01:49:09;NF emitida após pagamento;E:31/10/2024 P:27/10/2024;Alto
+DOC_0871.txt;2026-04-22 01:49:09;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0872.txt;2026-04-22 01:49:12;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0873.txt;2026-04-22 01:49:19;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0874.txt;2026-04-22 01:49:22;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0875.txt;2026-04-22 01:49:29;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0876.txt;2026-04-22 01:49:32;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0877.txt;2026-04-22 01:49:34;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0878.txt;2026-04-22 01:49:42;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0879.txt;2026-04-22 01:49:44;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0880.txt;2026-04-22 01:49:52;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0881.txt;2026-04-22 01:49:54;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0883.txt;2026-04-22 01:50:04;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0884.txt;2026-04-22 01:50:06;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0885.txt;2026-04-22 01:50:14;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0886.txt;2026-04-22 01:50:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0887.txt;2026-04-22 01:50:24;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0889.txt;2026-04-22 01:50:29;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0890.txt;2026-04-22 01:50:36;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0891.txt;2026-04-22 01:50:38;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0892.txt;2026-04-22 01:50:46;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0892.txt;2026-04-22 01:50:46;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0893.txt;2026-04-22 01:50:48;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0894.txt;2026-04-22 01:50:51;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0894.txt;2026-04-22 01:50:51;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0895.txt;2026-04-22 01:50:58;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0896.txt;2026-04-22 01:51:01;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0897.txt;2026-04-22 01:51:08;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0898.txt;2026-04-22 01:51:10;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0899.txt;2026-04-22 01:51:13;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0900.txt;2026-04-22 01:51:20;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0901.txt;2026-04-22 01:51:23;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0902.txt;2026-04-22 01:51:25;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0903.txt;2026-04-22 01:51:33;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0904.txt;2026-04-22 01:51:35;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0905.txt;2026-04-22 01:51:42;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0905.txt;2026-04-22 01:51:42;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0907.txt;2026-04-22 01:51:52;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0908.txt;2026-04-22 01:51:55;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0909.txt;2026-04-22 01:51:57;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0910.txt;2026-04-22 01:52:05;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0911.txt;2026-04-22 01:52:07;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0912.txt;2026-04-22 01:52:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0913.txt;2026-04-22 01:52:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0913.txt;2026-04-22 01:52:17;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0915.txt;2026-04-22 01:52:27;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0916.txt;2026-04-22 01:52:30;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0917.txt;2026-04-22 01:52:32;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0918.txt;2026-04-22 01:52:39;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0919.txt;2026-04-22 01:52:42;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0922.txt;2026-04-22 01:52:54;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0923.txt;2026-04-22 01:53:02;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0924.txt;2026-04-22 01:53:04;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0925.txt;2026-04-22 01:53:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0926.txt;2026-04-22 01:53:14;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0927.txt;2026-04-22 01:53:16;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0928.txt;2026-04-22 01:53:24;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0929.txt;2026-04-22 01:53:26;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0930.txt;2026-04-22 01:53:29;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0932.txt;2026-04-22 01:53:39;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0934.txt;2026-04-22 01:53:48;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0935.txt;2026-04-22 01:53:56;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0935.txt;2026-04-22 01:53:56;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0936.txt;2026-04-22 01:53:58;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0937.txt;2026-04-22 01:54:01;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0938.txt;2026-04-22 01:54:08;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0938.txt;2026-04-22 01:54:08;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0939.txt;2026-04-22 01:54:11;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0940.txt;2026-04-22 01:54:13;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0941.txt;2026-04-22 01:54:21;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0944.txt;2026-04-22 01:54:33;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0945.txt;2026-04-22 01:54:36;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0946.txt;2026-04-22 01:54:43;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0947.txt;2026-04-22 01:54:46;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0948.txt;2026-04-22 01:54:48;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0949.txt;2026-04-22 01:54:55;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0949.txt;2026-04-22 01:54:55;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0950.txt;2026-04-22 01:54:58;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0951.txt;2026-04-22 01:55:05;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0952.txt;2026-04-22 01:55:08;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0953.txt;2026-04-22 01:55:10;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0954.txt;2026-04-22 01:55:18;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0955.txt;2026-04-22 01:55:20;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0956.txt;2026-04-22 01:55:28;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0957.txt;2026-04-22 01:55:30;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0958.txt;2026-04-22 01:55:33;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0958.txt;2026-04-22 01:55:33;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0960.txt;2026-04-22 01:55:43;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0962.txt;2026-04-22 01:55:53;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0962.txt;2026-04-22 01:55:53;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0963.txt;2026-04-22 01:55:55;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0965.txt;2026-04-22 01:56:05;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0966.txt;2026-04-22 01:56:07;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0967.txt;2026-04-22 01:56:15;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0968.txt;2026-04-22 01:56:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0969.txt;2026-04-22 01:56:25;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0970.txt;2026-04-22 01:56:27;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0971.txt;2026-04-22 01:56:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0972.txt;2026-04-22 01:56:37;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0973.txt;2026-04-22 01:56:39;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0974.txt;2026-04-22 01:56:47;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0975.txt;2026-04-22 01:56:49;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0976.txt;2026-04-22 01:56:52;NF duplicada;NF-37973;Alto
+DOC_0976.txt;2026-04-22 01:56:52;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0977.txt;2026-04-22 01:56:59;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0978.txt;2026-04-22 01:57:01;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0979.txt;2026-04-22 01:57:09;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0980.txt;2026-04-22 01:57:11;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0981.txt;2026-04-22 01:57:14;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0982.txt;2026-04-22 01:57:21;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0983.txt;2026-04-22 01:57:23;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0985.txt;2026-04-22 01:57:33;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0985.txt;2026-04-22 01:57:33;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0986.txt;2026-04-22 01:57:36;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0987.txt;2026-04-22 01:57:43;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0988.txt;2026-04-22 01:57:45;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0988.txt;2026-04-22 01:57:45;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0990.txt;2026-04-22 01:57:55;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0991.txt;2026-04-22 01:58:03;Aprovador não reconhecido;Fernanda Costa;Médio
+DOC_0992.txt;2026-04-22 01:58:05;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0992.txt;2026-04-22 01:58:05;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0993.txt;2026-04-22 01:58:07;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0994.txt;2026-04-22 01:58:15;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0995.txt;2026-04-22 01:58:17;Aprovador não reconhecido;Ana Beatriz;Médio
+DOC_0997.txt;2026-04-22 01:58:27;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_0998.txt;2026-04-22 01:58:29;Aprovador não reconhecido;Roberto Lima;Médio
+DOC_0998.txt;2026-04-22 01:58:29;STATUS inconsistente;Cancelado com data de pagamento;Médio
+DOC_0999.txt;2026-04-22 01:58:37;Aprovador não reconhecido;Carlos Mendes;Médio
+DOC_1000.txt;2026-04-22 01:58:39;Aprovador não reconhecido;Fernanda Costa;Médio
