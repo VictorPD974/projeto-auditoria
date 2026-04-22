@@ -196,7 +196,7 @@ class AuditorIA:
                 print(f"[PROGRESSO] {i + 1} de {total} | Concluído: {nome}")
 
                 # Intervalo de segurança para respeitar a cota RPM
-                time.sleep(2)
+                time.sleep(3)
 
         # Geração dos CSVs Finais para Power BI
         pd.DataFrame(resultados_finais).drop(columns=['anomalias'], errors='ignore').to_csv('resultados_bi.csv',
