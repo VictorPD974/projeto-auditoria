@@ -6,3 +6,5 @@ pandas
 python-multipart
 requests
 chardet
+python-dotenv
+httpx
