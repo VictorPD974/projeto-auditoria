@@ -4,3 +4,4 @@ gunicorn
 groq
 pandas
 python-multipart
+requests
