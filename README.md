@@ -10,12 +10,9 @@ O resultado do processamento é visualizado em um dashboard de alta fidelidade c
 Página 1: Resumo Executivo & Compliance
 Focada em KPIs globais e detecção de riscos por fornecedor.
 
-[INSERIR AQUI O PRINT DA SUA PÁGINA 1 - image_b602b7.png]
-
 Página 2: Log de Auditoria Detalhado
 Focada na rastreabilidade total de cada anomalia encontrada.
 
-[INSERIR AQUI O PRINT DA SUA PÁGINA 2 - image_b67a75.png]
 
 🏗️ Arquitetura e Escolhas Técnicas
 1. Modelo de Linguagem (LLM): Llama 3.1 8B via Groq
